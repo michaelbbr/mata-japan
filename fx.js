@@ -1,35 +1,33 @@
 const form = document.getElementById("fx-form");
 
-form.addEventListener("input", () => {
-  document.getElementById("fx-result").value = "";
-});
-
-form.addEventListener("submit", (event) => {
-  event.preventDefault();
+function computeFx() {
   const fields = new FormData(form);
-  const [currency, unit] = fields.get("unit").split(":");
-  const total = Number(fields.get("amount")) * Number(fields.get("rate")) / Number(unit);
-  if (!Number.isFinite(total)) return;
-  const price = new Intl.NumberFormat("zh-Hant", { maximumFractionDigits: 2 }).format(total);
-  document.getElementById("fx-result").value = `${currency} ${price}`;
-});
+  const total = Number(fields.get("amount")) * Number(fields.get("rate"));
+  const out = document.getElementById("fx-result");
+  if (!Number.isFinite(total) || total <= 0) { out.value = ""; return; }
+  const price = new Intl.NumberFormat("zh-Hant", { maximumFractionDigits: 0 }).format(total);
+  out.value = `≈ ${price} 日圓`;
+}
+
+form.addEventListener("input", computeFx);
+form.addEventListener("submit", (event) => { event.preventDefault(); computeFx(); });
 
 // --- Live rate board (bank-bulletin style, top of homepage) ---
 const rateInput = form.querySelector('input[name="rate"]');
-const unitSelect = form.querySelector('select[name="unit"]');
+const ccySelect = form.querySelector('select[name="ccy"]');
 let liveRates = null;
 
 function fillRate() {
   if (!liveRates || rateInput.dataset.auto === "0") return;
-  const [currency, unit] = unitSelect.value.split(":");
-  const per = liveRates[currency];
+  const per = liveRates[ccySelect.value];
   if (!per) return;
-  rateInput.value = String(Number((per * Number(unit)).toPrecision(6)));
+  rateInput.value = String(Number((1 / per).toPrecision(4)));
   rateInput.dataset.auto = "1";
+  computeFx();
 }
 
 rateInput.addEventListener("input", () => { rateInput.dataset.auto = "0"; });
-unitSelect.addEventListener("change", fillRate);
+ccySelect.addEventListener("change", () => { rateInput.dataset.auto = "1"; fillRate(); });
 
 function loadRates(){
 fetch("https://open.er-api.com/v6/latest/JPY")
