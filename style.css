@@ -49,3 +49,10 @@
 .wx-card b{display:block;font-size:17px;margin-top:2px;font-variant-numeric:tabular-nums}
 .wx-card small{display:block;color:#606060;font-size:12px;margin-top:2px;font-variant-numeric:tabular-nums}
 .wx-note{margin:8px 0 0;color:#8b8e96;font-size:11.5px}
+
+.editor-hero{display:flex;gap:20px;align-items:center;margin:10px 0 6px}
+.editor-photo{width:120px;height:120px;border-radius:50%;object-fit:cover}
+.editor-posts{line-height:1.9}
+.editors a.editor-card{color:inherit;text-decoration:none;display:block}
+.editors a.editor-card:hover h3{text-decoration:underline}
+.more-link{font-size:14px}
