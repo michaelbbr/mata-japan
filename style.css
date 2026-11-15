@@ -56,3 +56,11 @@
 .editors a.editor-card{color:inherit;text-decoration:none;display:block}
 .editors a.editor-card:hover h3{text-decoration:underline}
 .more-link{font-size:14px}
+
+.wx-top{display:flex;align-items:center;gap:8px}
+.wx-icon{font-size:26px;line-height:1}
+.wx-card b.wx-t1{color:#1d4ed8}
+.wx-card b.wx-t2{color:#0284c7}
+.wx-card b.wx-t3{color:#374151}
+.wx-card b.wx-t4{color:#ea580c}
+.wx-card b.wx-t5{color:#dc2626}

@@ -59,13 +59,17 @@ function loadWeather(){
     .then((list) => {
       const grid = document.getElementById("wx-grid");
       if (!grid) return;
+      const WXICON = {0:"☀️",1:"🌤️",2:"⛅",3:"☁️",45:"🌫️",48:"🌫️",51:"🌦️",53:"🌦️",55:"🌦️",61:"🌧️",63:"🌧️",65:"🌧️",66:"🌧️",67:"🌧️",71:"🌨️",73:"🌨️",75:"🌨️",77:"❄️",80:"🌦️",81:"🌦️",82:"🌧️",85:"🌨️",86:"🌨️",95:"⛈️",96:"⛈️",99:"⛈️"};
+      const feel = (t) => t <= 5 ? ["wx-t1","很冷"] : t <= 12 ? ["wx-t2","偏冷"] : t <= 20 ? ["wx-t3","舒適"] : t <= 26 ? ["wx-t4","偏熱"] : ["wx-t5","炎熱"];
       grid.innerHTML = list.map((d, i) => {
         const t = Math.round(d.current.temperature_2m);
         const desc = WXDESC[d.current.weather_code] || "";
+        const icon = WXICON[d.current.weather_code] || "🌡️";
+        const [cls, feelText] = feel(t);
         const hi0 = Math.round(d.daily.temperature_2m_max[0]), lo0 = Math.round(d.daily.temperature_2m_min[0]);
         const hi1 = Math.round(d.daily.temperature_2m_max[1]), lo1 = Math.round(d.daily.temperature_2m_min[1]);
         const rain = d.daily.precipitation_probability_max[0];
-        return `<div class="wx-card"><span class="wx-city">${WXCITIES[i]}</span><b>${t}°C ${desc}</b><small>今日 ${lo0}–${hi0}°C${rain != null ? "・雨 " + rain + "%" : ""}</small><small>明日 ${lo1}–${hi1}°C</small></div>`;
+        return `<div class="wx-card"><div class="wx-top"><span class="wx-icon" aria-hidden="true">${icon}</span><span class="wx-city">${WXCITIES[i]}</span></div><b class="${cls}">${t}°C ${desc}・${feelText}</b><small>今日 ${lo0}–${hi0}°C${rain != null ? "・雨 " + rain + "%" : ""}</small><small>明日 ${lo1}–${hi1}°C</small></div>`;
       }).join("");
       const el = document.getElementById("wx-updated");
       if (el) el.textContent = "更新：" + new Intl.DateTimeFormat("zh-Hant", { timeZone: "Asia/Tokyo", hour: "2-digit", minute: "2-digit", hour12: false }).format(new Date()) + "（日本時間）";
