@@ -28,3 +28,7 @@
 .authorbox .authorlabel{font-size:13px;color:#555;margin:0}
 .authorbox h3{margin:2px 0;font-size:20px}
 .authorbox p{margin:3px 0;color:#494949}
+
+.article-img{margin:26px 0}
+.article-img img{width:100%;height:auto;display:block;border-radius:8px}
+.article-img figcaption{font-size:13px;color:#555;margin-top:8px}
