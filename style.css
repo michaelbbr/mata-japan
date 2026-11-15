@@ -36,3 +36,6 @@
 .editor-avatar{width:88px;height:88px;border-radius:50%;object-fit:cover;display:block;margin-bottom:10px}
 .authorbox{overflow:hidden}
 .author-avatar{float:left;width:72px;height:72px;border-radius:50%;object-fit:cover;margin:2px 16px 8px 0}
+
+.brandmark{width:34px;height:34px;border-radius:9px;vertical-align:-10px;margin-right:8px}
+.hero-mascot{width:150px;height:150px;border-radius:18px;display:block;margin-top:20px}
