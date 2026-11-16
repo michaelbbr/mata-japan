@@ -34,10 +34,11 @@ fetch("https://open.er-api.com/v6/latest/JPY")
   .then((r) => r.json())
   .then((d) => {
     if (d.result !== "success" || !d.rates) throw new Error("rates unavailable");
-    liveRates = { TWD: d.rates.TWD, HKD: d.rates.HKD };
+    liveRates = { TWD: d.rates.TWD, HKD: d.rates.HKD, CNY: d.rates.CNY };
     document.getElementById("fx-twd").textContent = (1 / d.rates.TWD).toFixed(2);
     document.getElementById("fx-hkd").textContent = (1 / d.rates.HKD).toFixed(2);
     document.getElementById("fx-usd").textContent = (1 / d.rates.USD).toFixed(2);
+    document.getElementById("fx-cny").textContent = (1 / d.rates.CNY).toFixed(2);
     const fu = document.getElementById("fx-updated"); if (fu) fu.textContent = `更新：${d.time_last_update_utc}｜來源：ExchangeRate-API`;
     fillRate();
   })
