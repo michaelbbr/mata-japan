@@ -38,8 +38,7 @@ fetch("https://open.er-api.com/v6/latest/JPY")
     document.getElementById("fx-twd").textContent = (1 / d.rates.TWD).toFixed(2);
     document.getElementById("fx-hkd").textContent = (1 / d.rates.HKD).toFixed(2);
     document.getElementById("fx-usd").textContent = (1 / d.rates.USD).toFixed(2);
-    document.getElementById("fx-updated").textContent =
-      `更新：${d.time_last_update_utc}｜來源：ExchangeRate-API`;
+    const fu = document.getElementById("fx-updated"); if (fu) fu.textContent = `更新：${d.time_last_update_utc}｜來源：ExchangeRate-API`;
     fillRate();
   })
   .catch(() => {
@@ -62,7 +61,9 @@ function loadWeather(){
       const WXICON = {0:"☀️",1:"🌤️",2:"⛅",3:"☁️",45:"🌫️",48:"🌫️",51:"🌦️",53:"🌦️",55:"🌦️",61:"🌧️",63:"🌧️",65:"🌧️",66:"🌧️",67:"🌧️",71:"🌨️",73:"🌨️",75:"🌨️",77:"❄️",80:"🌦️",81:"🌦️",82:"🌧️",85:"🌨️",86:"🌨️",95:"⛈️",96:"⛈️",99:"⛈️"};
       const feel = (t) => t <= 5 ? ["wx-t1","很冷"] : t <= 12 ? ["wx-t2","偏冷"] : t <= 20 ? ["wx-t3","舒適"] : t <= 26 ? ["wx-t4","偏熱"] : ["wx-t5","炎熱"];
       const WD = ["日","一","二","三","四","五","六"];
+      let wxSel = -1;
       const showWeek = (idx) => {
+        wxSel = idx;
         const box = document.getElementById("wx-detail");
         if (!box) return;
         const d = list[idx];
@@ -83,12 +84,18 @@ function loadWeather(){
         const icon = WXICON[d.current.weather_code] || "🌡️";
         const [cls, feelText] = feel(t);
         const hi0 = Math.round(d.daily.temperature_2m_max[0]), lo0 = Math.round(d.daily.temperature_2m_min[0]);
-        const hi1 = Math.round(d.daily.temperature_2m_max[1]), lo1 = Math.round(d.daily.temperature_2m_min[1]);
         const rain = d.daily.precipitation_probability_max[0];
-        return `<button type="button" class="wx-card" data-wx="${i}" aria-expanded="false"><span class="wx-top"><span class="wx-icon" aria-hidden="true">${icon}</span><span class="wx-city">${WXCITIES[i]}</span></span><b class="${cls}">${t}°C ${desc}・${feelText}</b><small>今日 ${lo0}–${hi0}°C${rain != null ? "・雨 " + rain + "%" : ""}</small><small>明日 ${lo1}–${hi1}°C</small></button>`;
+        return `<button type="button" class="wx-card" data-wx="${i}" aria-expanded="false"><span class="wx-top"><span class="wx-icon" aria-hidden="true">${icon}</span><span class="wx-city">${WXCITIES[i]}</span></span><b class="${cls}">${t}°C ${desc}・${feelText}</b><small>今日 ${lo0}–${hi0}°C${rain != null ? "・雨 " + rain + "%" : ""}</small></button>`;
       }).join("");
-      grid.querySelectorAll(".wx-card").forEach((c) => c.addEventListener("click", () => showWeek(Number(c.dataset.wx))));
-      showWeek(1);
+      grid.querySelectorAll(".wx-card").forEach((c) => c.addEventListener("click", () => {
+        const idx = Number(c.dataset.wx);
+        if (wxSel === idx) {
+          wxSel = -1;
+          const box = document.getElementById("wx-detail");
+          if (box) box.innerHTML = "";
+          grid.querySelectorAll(".wx-card").forEach((x) => x.setAttribute("aria-expanded", "false"));
+        } else showWeek(idx);
+      }));
       const el = document.getElementById("wx-updated");
       if (el) el.textContent = "更新：" + new Intl.DateTimeFormat("zh-Hant", { timeZone: "Asia/Tokyo", hour: "2-digit", minute: "2-digit", hour12: false }).format(new Date()) + "（日本時間）";
     })
