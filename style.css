@@ -84,3 +84,7 @@
 .wx-card{display:flex;flex-direction:column;height:100%}
 .wx-card .wx-more{margin-top:auto}
 .wx-card small{margin-bottom:10px}
+
+.chief{margin-top:36px;background:var(--surface);border-radius:8px;padding:16px 22px}
+.chief h2{margin:0 0 4px;font-size:19px}
+.chief p{margin:4px 0;color:#333}
