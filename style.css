@@ -64,3 +64,9 @@
 .wx-card b.wx-t3{color:#374151}
 .wx-card b.wx-t4{color:#ea580c}
 .wx-card b.wx-t5{color:#dc2626}
+
+.hero-gif{width:150px;height:auto;display:block;margin:18px auto 0}
+.band-gif{height:170px;width:auto;display:block;margin:12px 0}
+.topic-gif{height:150px;width:auto;display:block;margin:14px 0}
+.persona-gif{height:190px;width:auto;display:block;margin:14px 0}
+.persona-gif.square{height:150px}
