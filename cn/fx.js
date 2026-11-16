@@ -44,7 +44,7 @@ fetch("https://open.er-api.com/v6/latest/JPY")
   })
   .catch(() => {
     const el = document.getElementById("fx-updated");
-    if (el) el.textContent = "实时汇率暂时加载失败";
+    if (el) el.textContent = "即时汇率暂时加载失败";
   });
 }
 loadRates();
@@ -86,7 +86,7 @@ function loadWeather(){
         const [cls, feelText] = feel(t);
         const hi0 = Math.round(d.daily.temperature_2m_max[0]), lo0 = Math.round(d.daily.temperature_2m_min[0]);
         const rain = d.daily.precipitation_probability_max[0];
-        return `<button type="button" class="wx-card" data-wx="${i}" aria-expanded="false"><span class="wx-top"><span class="wx-icon" aria-hidden="true">${icon}</span><span class="wx-city">${WXCITIES[i]}</span></span><b class="${cls}">${t}°C ${desc}・${feelText}</b><small>今日 ${lo0}–${hi0}°C${rain != null ? "・雨 " + rain + "%" : ""}</small><span class="wx-more">看一周预报 ▾</span></button>`;
+        return `<button type="button" class="wx-card" data-wx="${i}" aria-expanded="false"><span class="wx-top"><span class="wx-icon" aria-hidden="true">${icon}</span><span class="wx-city">${WXCITIES[i]}</span></span><b class="${cls}">${t}°C <span class="wx-desc">${desc}・${feelText}</span></b><small>今日 ${lo0}–${hi0}°C${rain != null ? "・雨 " + rain + "%" : ""}</small><span class="wx-more">看一周预报 ▾</span></button>`;
       }).join("");
       grid.querySelectorAll(".wx-card").forEach((c) => c.addEventListener("click", () => {
         const idx = Number(c.dataset.wx);
