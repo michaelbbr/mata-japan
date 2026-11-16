@@ -70,3 +70,7 @@
 .topic-gif{height:150px;width:auto;display:block;margin:14px 0}
 .persona-gif{height:190px;width:auto;display:block;margin:14px 0}
 .persona-gif.square{height:150px}
+
+.sticker{height:62px;width:auto;display:inline-block;vertical-align:-16px;margin-left:12px;transform:rotate(-6deg)}
+.sticker.r{transform:rotate(6deg)}
+.sticker.sm{height:50px;vertical-align:-12px;margin-left:8px}
