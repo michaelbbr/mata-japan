@@ -68,7 +68,7 @@ function loadWeather(){
         const box = document.getElementById("wx-detail");
         if (!box) return;
         const d = list[idx];
-        grid.querySelectorAll(".wx-card").forEach((c, j) => c.setAttribute("aria-expanded", j === idx ? "true" : "false"));
+        grid.querySelectorAll(".wx-card").forEach((c, j) => { c.setAttribute("aria-expanded", j === idx ? "true" : "false"); const m = c.querySelector(".wx-more"); if (m) m.textContent = j === idx ? "閉じる ▴" : "週間予報を見る ▾"; });
         const rows = d.daily.time.map((day, j) => {
           const dt = new Date(day + "T00:00:00+09:00");
           const code = d.daily.weather_code[j];
@@ -86,7 +86,7 @@ function loadWeather(){
         const [cls, feelText] = feel(t);
         const hi0 = Math.round(d.daily.temperature_2m_max[0]), lo0 = Math.round(d.daily.temperature_2m_min[0]);
         const rain = d.daily.precipitation_probability_max[0];
-        return `<button type="button" class="wx-card" data-wx="${i}" aria-expanded="false"><span class="wx-top"><span class="wx-icon" aria-hidden="true">${icon}</span><span class="wx-city">${WXCITIES[i]}</span></span><b class="${cls}">${t}°C ${desc}・${feelText}</b><small>今日 ${lo0}–${hi0}°C${rain != null ? "・雨 " + rain + "%" : ""}</small></button>`;
+        return `<button type="button" class="wx-card" data-wx="${i}" aria-expanded="false"><span class="wx-top"><span class="wx-icon" aria-hidden="true">${icon}</span><span class="wx-city">${WXCITIES[i]}</span></span><b class="${cls}">${t}°C ${desc}・${feelText}</b><small>今日 ${lo0}–${hi0}°C${rain != null ? "・雨 " + rain + "%" : ""}</small><span class="wx-more">週間予報を見る ▾</span></button>`;
       }).join("");
       grid.querySelectorAll(".wx-card").forEach((c) => c.addEventListener("click", () => {
         const idx = Number(c.dataset.wx);
@@ -94,7 +94,7 @@ function loadWeather(){
           wxSel = -1;
           const box = document.getElementById("wx-detail");
           if (box) box.innerHTML = "";
-          grid.querySelectorAll(".wx-card").forEach((x) => x.setAttribute("aria-expanded", "false"));
+          grid.querySelectorAll(".wx-card").forEach((x) => { x.setAttribute("aria-expanded", "false"); const m = x.querySelector(".wx-more"); if (m) m.textContent = "週間予報を見る ▾"; });
         } else showWeek(idx);
       }));
       const el = document.getElementById("wx-updated");

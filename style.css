@@ -75,3 +75,8 @@
 .sticker.r{transform:rotate(6deg)}
 .sticker.sm{height:50px;vertical-align:-12px;margin-left:8px}
 .cover-img{width:100%;aspect-ratio:1.85;object-fit:cover;border-radius:8px;display:block;background:#e9e9e6}.wx-card{font:inherit;text-align:left;cursor:pointer;width:100%}.wx-card:hover{border-color:#b9c4f5}.wx-card[aria-expanded="true"]{border-color:#2446d1;box-shadow:0 0 0 1px #2446d1}.wx-detail{margin-top:12px;border:1px solid #e3e2df;border-radius:10px;padding:12px 14px;background:#fff}.wx-detail:empty{display:none}.wx-detail h3{margin:0 0 8px;font-size:15px}.wx-days{display:grid;gap:7px}.wx-day{display:flex;align-items:center;gap:10px;font-size:13.5px;flex-wrap:wrap}.wx-day .d-date{width:88px;color:#555;font-variant-numeric:tabular-nums}.wx-day .d-icon{font-size:19px;line-height:1}.wx-day .d-desc{width:60px}.wx-day .d-temp{font-variant-numeric:tabular-nums}.wx-day .d-temp b.wx-t1{color:#1d4ed8}.wx-day .d-temp b.wx-t2{color:#0284c7}.wx-day .d-temp b.wx-t3{color:#374151}.wx-day .d-temp b.wx-t4{color:#ea580c}.wx-day .d-temp b.wx-t5{color:#dc2626}.wx-day .d-rain{color:#0369a1;font-size:12.5px}
+
+.wx-card{cursor:pointer;text-align:left;font:inherit;color:inherit;width:100%}
+.wx-card .wx-more{display:block;margin-top:8px;background:#e8edff;color:#1f3cff;border-radius:999px;padding:5px 0;font-size:12.5px;font-weight:700;text-align:center}
+.wx-card[aria-expanded="true"]{border-color:#1f3cff}
+.wx-card[aria-expanded="true"] .wx-more{background:#1f3cff;color:#fff}
