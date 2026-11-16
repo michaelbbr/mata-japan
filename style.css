@@ -80,3 +80,7 @@
 .wx-card .wx-more{display:block;margin-top:8px;background:#e8edff;color:#1f3cff;border-radius:999px;padding:5px 0;font-size:12.5px;font-weight:700;text-align:center}
 .wx-card[aria-expanded="true"]{border-color:#1f3cff}
 .wx-card[aria-expanded="true"] .wx-more{background:#1f3cff;color:#fff}
+
+.wx-card{display:flex;flex-direction:column;height:100%}
+.wx-card .wx-more{margin-top:auto}
+.wx-card small{margin-bottom:10px}
