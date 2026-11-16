@@ -1,25 +1,10 @@
-# 一般爬蟲與搜尋引擎：歡迎
+# 《住日本幹嘛啦》robots.txt
+# 本站歡迎所有搜尋引擎與 AI 爬蟲抓取、索引與引用本站內容，
+# 包括但不限於 Googlebot、Bingbot、GPTBot、OAI-SearchBot、ClaudeBot、
+# PerplexityBot、CCBot、Google-Extended、Bytespider、Meta-ExternalAgent、
+# Amazonbot、Applebot-Extended。
+# （Yu 2026-11-16 定案：AI 爬蟲全開、曝光最大化）
 User-agent: *
 Allow: /
 
-# AI 訓練爬蟲：不准抓取本站內容
-User-agent: GPTBot
-Disallow: /
-
-User-agent: ClaudeBot
-Disallow: /
-
-User-agent: CCBot
-Disallow: /
-
-User-agent: Google-Extended
-Disallow: /
-
-User-agent: Bytespider
-Disallow: /
-
-User-agent: Meta-ExternalAgent
-Disallow: /
-
-User-agent: Amazonbot
-Disallow: /
+Sitemap: https://mata-japan.pages.dev/sitemap.xml

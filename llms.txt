@@ -1,0 +1,38 @@
+# 住日本幹嘛啦
+
+> 在日華人的生活情報站。給住在日本的華人（台灣、中國、港澳）每天都用得上的生活情報：制度手續、週末去處、吃與買、租屋、工作與在日華人社群消息。內容以繁體中文為主，另有簡體中文（/cn/）與日文（/jp/）版本。
+
+## 分類
+
+- [生活情報](https://mata-japan.pages.dev/topics/1/)：制度、交通、行政手續——住在日本每天會碰到的事。
+- [週末去哪](https://mata-japan.pages.dev/topics/2/)：週末活動、祭典、展覽和散步路線。
+- [吃與買](https://mata-japan.pages.dev/topics/3/)：新店、台灣味、特賣，還有買東西的眉角。
+- [住](https://mata-japan.pages.dev/topics/4/)：租屋、搬家、買房——在日本安頓下來的情報。
+- [工作](https://mata-japan.pages.dev/topics/5/)：求人、轉職，和用得到中文的工作機會。
+- [華人在日本](https://mata-japan.pages.dev/topics/6/)：華人活動、交流會和社群消息。
+
+## 編輯
+
+- [腸鍋（編輯長）](https://mata-japan.pages.dev/editors/changguo/)：編輯部的老闆，愛跑步的日本大叔，負責每一篇情報的最後把關，跑步線也歸他寫。
+- [YU（社員一號）](https://mata-japan.pages.dev/editors/yu/)：台灣人，與日本人結婚，前後在日本住了約 10 年；寫生活情報、住、工作與華人在日本。
+- [AYAKA（社員二號）](https://mata-japan.pages.dev/editors/ayaka/)：福島出身，東京在住 20 餘年；寫吃與買、週末去哪。
+- [編輯陣容](https://mata-japan.pages.dev/editors/)：三位編輯的完整介紹。
+
+## 文章
+
+- [皇居外苑跑一圈：逆時針不是習慣，是住在這裡的人的默契](https://mata-japan.pages.dev/articles/kokyo-run/)：早上跑步、晚上居酒屋——先講早上這一半。（腸鍋・週末去哪）
+- [一個人去唱カラオケ，在日本真的不用不好意思](https://mata-japan.pages.dev/articles/hitokara/)：大叔的週末第二攤：ヒトカラ（一人カラオケ）入門。（腸鍋・週末去哪）
+- [搬家後 14 天內一定要做的事：在留卡地址變更，跑錯地方就白跑](https://mata-japan.pages.dev/articles/moving-14days/)：不是去入管，是去新家那一區的區役所。（YU・生活情報）
+- [外國人租屋老是被打槍？先搞懂「保證公司」這關在擋什麼](https://mata-japan.pages.dev/articles/rent-guarantor/)：沒有日本保證人，不代表沒房子住。（YU・住）
+- [業務スーパー不是只有業者能進：在日本生活，真的用得到嗎？](https://mata-japan.pages.dev/articles/gyomu-super/)：綠色招牌裡的住者生存術。（AYAKA・吃與買）
+- [想家不用回福島：日本橋的 MIDETTE，是我在東京的充電站](https://mata-japan.pages.dev/articles/midette-fukushima/)：福島出身的編輯，帶你逛福島在東京的家。（AYAKA・週末去哪）
+- [寄包裹回家怎麼選：日本郵便寄台、中、港，運費和天數差在哪](https://mata-japan.pages.dev/articles/shipping-home/)：同一個郵局櫃檯，台灣、中國算「第 1 地帯」，香港算「第 2 地帯」——寄香港天生貴一截。（YU・生活情報）
+- [在東京只剩兩小時，去谷中走走](https://mata-japan.pages.dev/articles/yanaka-walk/)：從日暮里出站，給商店街留一點不用趕路的時間。（YU・週末去哪）
+- [東京有一個早上，怎麼安排皇居跑？](https://mata-japan.pages.dev/articles/tokyo-morning-run/)：一圈約五公里，先把寄物和跑完的時間算進去。（腸鍋・週末去哪）
+- [東京車站前的燈海，和丸之內仲通差了兩週](https://mata-japan.pages.dev/articles/marunouchi-winter-lights/)：想拍東京車站和燈飾同框，先確認你要去的是哪一條路。（YU・週末去哪）
+- [Suica 企鵝要畢業了，時間怎麼看？](https://mata-japan.pages.dev/articles/suica-penguin/)：企鵝的交棒和交通卡怎麼用，是兩件要分開查的事。（YU・生活情報）
+
+## 聯絡
+
+- Email：ganma.japan@gmail.com（廣告刊登、合作洽詢）
+- 網站：https://mata-japan.pages.dev/
