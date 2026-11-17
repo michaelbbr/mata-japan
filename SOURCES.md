@@ -51,7 +51,7 @@
 ## 2026-11-17 上站（batch3 新刊 9 篇）
 
 - 東京 9 平方公尺的房間，住進去才知道什麼叫剛剛好：アットホーム募集家賃動向 2026 年 9 月整理（https://satoyuka.net/rent-trend-202609/）；エイブル物件頁（https://www.able.co.jp/tokyo/ensen/101001052/list/gomanen/）；壁芯與內法解說（https://japanpropertyresearch.com/en/guides/how-to-check-floor-area-on-a-property-in-japan），2026-11-17 核對。
-- 公司寄來的那包年末調整表格，有幾格填錯要自己跑稅務署：國稅廳令和 7 年分年末調整のしかた（https://www.nta.go.jp/publication/pamph/gensen/nencho2025/01.htm）；國稅廳タックスアンサー No.1900、No.1906，2026-11-17 核對。
+- 公司寄來的那包年末調整表格，有幾格填錯要自己跑稅務署：國稅廳令和 8 年分年末調整のしかた（https://www.nta.go.jp/publication/pamph/gensen/nencho2026/01.htm）；國稅廳タックスアンサー No.1900、No.1906，2026-11-17 核對。
 - 通勤電車上沒人講話，規矩都寫在大家的動作裡：日本民營鐵道協會 2025 年度車站・電車內禮儀問卷（共同通信、日テレNEWS 公布值）；JR 東日本常見問答車內手機禮儀，2026-11-17 核對。
 - 日本小學的營養午餐從飯糰開始，現在連費用都變了：文部科學省學制百年史、令和 3 年度學校給食實施狀況等調查、令和 5 年度實態調查、學校給食費的根本性負擔輕減頁、學校給食食物過敏對應指引，2026-11-17 核對。
 - 2027 福袋已經開跑，星巴克的抽選 11 月 15 日就截止了：星巴克福袋 2027 官方要項、高島屋／大丸松坂屋／三越伊勢丹／AEON Shop 各官方特設頁整理、無印良品福缶官方現況，2026-11-17 核對。
@@ -68,3 +68,7 @@
 - 自行車藍單上路，騎車滑手機那一下要 12000 日圓：東京都都民安全綜合對策本部｜交通反則通告制度（青切符制度）が導入されました（https://www.tomin-anzen.metro.tokyo.lg.jp/kotsu/topics-k/blue_ticket_system）；警察廳｜自転車ルールブック（東京都頁面引用連結）（https://www.npa.go.jp/bureau/traffic/bicycle/info.html），2026-11-17 核對。
 - 舊健保卡還躺在皮夾裡，去醫院前要換帶的那張已經變了：厚生勞動省｜マイナンバーカードの健康保険証利用（マイナ保険証）について（https://www.mhlw.go.jp/stf/newpage_08277.html）；厚生勞動省｜資格確認書について（マイナ保険証を使わない場合の受診方法）（https://www.mhlw.go.jp/stf/newpage_45470.html），2026-11-17 核對。
 - Japan Cup 那天去府中，票要在家裡就買好：JRA 公式｜2026 年重賞與 G1 日程（Beginners Book 2026）（https://www.jra.go.jp/kouza/beginner/seminar/pdf/beginnersbook2026.pdf）；JRA 公式資訊轉載｜ジャパンカップ當日東京競馬場利用方式（2026 年 11 月 13 日 JRA 發表）（https://umaimeshi.com/articles/japan-cup-spectating-guide/）；JRA 指定席與入場券網路預約日程彙整（https://chiba-style.com/event/20345/），2026-11-17 核對。
+
+## 2026-11-17 上站（日本生活 EP1）
+
+- 行事曆上圈起來的日子，是超市的雞蛋特價日：日本生活專欄首集日記，素材為 AYAKA 編輯介紹既定人設（行事曆記超市特價日），無外部事實引用；漫畫為 AI 生成並標示。

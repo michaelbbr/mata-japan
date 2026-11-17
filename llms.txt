@@ -10,6 +10,8 @@
 - [住](https://mata-japan.pages.dev/topics/4/)：租屋、搬家、買房：在日本安頓下來的情報。
 - [工作](https://mata-japan.pages.dev/topics/5/)：求人、轉職，和用得到中文的工作機會。
 - [華人在日本](https://mata-japan.pages.dev/topics/6/)：華人活動、交流會和社群消息。
+- [期間活動](https://mata-japan.pages.dev/topics/7/)：期間限定的燈飾、祭典、展覽和市集：有明確起訖日期，居民週末真的會去的當季情報。
+- [日本生活](https://mata-japan.pages.dev/topics/8/)：YU 與 AYAKA 在日本的生活日記，輕鬆短篇配四格漫畫。
 
 ## 編輯
 
@@ -46,7 +48,7 @@
 - [目黑川的冬之櫻 12 月 4 日點燈，兩岸 2.2 公里都是粉紅色的](https://mata-japan.pages.dev/articles/megurogawa-lights/)：目黒川みんなのイルミネーション2026，2026 年 12 月 4 日到 2027 年 1 月 31 日，約 41 萬球，免費。（AYAKA・期間活動）
 
 - [東京 9 平方公尺的房間，住進去才知道什麼叫剛剛好](https://mata-japan.pages.dev/articles/tiny-apartment/)：廣告面積是壁芯，實際可用看內法，9 平方公尺級老物件租金可以壓到 4 萬日圓上下。（YU・住）
-- [公司寄來的那包年末調整表格，有幾格填錯要自己跑稅務署](https://mata-japan.pages.dev/articles/nenmatsu-chosei/)：令和 7 年分基礎控除 58 萬到 95 萬日圓，副業看所得不看營收，醫療費控除要自己確定申告。（YU・工作）
+- [公司寄來的那包年末調整表格，有幾格填錯要自己跑稅務署](https://mata-japan.pages.dev/articles/nenmatsu-chosei/)：令和 8 年分基礎控除 62 萬到 104 萬日圓，副業看所得不看營收，醫療費控除要自己確定申告。（YU・工作）
 - [通勤電車上沒人講話，規矩都寫在大家的動作裡](https://mata-japan.pages.dev/articles/train-manners/)：民鐵協 2025 年度調查，乘客最在意咳嗽不遮掩、坐姿與堵在車門附近。（YU・華人在日本）
 - [日本小學的營養午餐從飯糰開始，現在連費用都變了](https://mata-japan.pages.dev/articles/school-lunch/)：完全給食是主食加牛乳加配菜，2026 年 4 月起公立小學有國家補助基準額每月 5,200 日圓。（AYAKA・生活情報）
 - [2027 福袋已經開跑，星巴克的抽選 11 月 15 日就截止了](https://mata-japan.pages.dev/articles/fukubukuro-2027/)：百貨線上受理到 12 月 25 日或 1 月 31 日，無印良品福缶官方尚未公布。（AYAKA・期間活動）
@@ -61,6 +63,8 @@
 - [自行車藍單上路，騎車滑手機那一下要 12000 日圓](https://mata-japan.pages.dev/articles/bicycle-rules-2026/)：2026 年 4 月 1 日起 16 歲以上適用，反則金 3000 到 12000 日圓，金額照警察廳自行車規則書核對。（YU・生活情報）
 - [舊健保卡還躺在皮夾裡，去醫院前要換帶的那張已經變了](https://mata-japan.pages.dev/articles/myna-hokensho/)：舊健康保險證的效期在 2025 年 12 月 1 日結束，現在看病帶マイナ保険証或資格確認書，沒辦的人資格確認書會自己寄到家。（YU・生活情報）
 - [Japan Cup 那天去府中，票要在家裡就買好](https://mata-japan.pages.dev/articles/japan-cup-keiba/)：2026 年 11 月 29 日東京競馬場，芝 2400 公尺，當天沒有現場賣票，入場券 1000 日圓只走網路抽選。（腸鍋・週末去哪）
+
+- [行事曆上圈起來的日子，是超市的雞蛋特價日](https://mata-japan.pages.dev/articles/egg-sale-diary/)：圈起來的那一天，是雞蛋特價的日子。（AYAKA・日本生活）
 
 ## 聯絡
 
