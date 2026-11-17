@@ -59,3 +59,12 @@
 - 在日本遊戲公司上班的一天，九點五十分到辦公室，七點零七分離開：Paolo fromTOKYO 跟拍影片與內容整理；CESA 遊戲產業報告 2025；CESA 遊戲開發者的就業與職涯形成 2025，2026-11-17 核對。
 - 月給 30 萬日圓，薪資單上被扣掉的 6 萬多去了哪裡：協会けんぽ令和 8 年度東京都料率整理；厚生年金料率 18.3%（日本年金機構資料整理）；厚生勞動省令和 8 年度雇用保險料率整理；國稅廳源泉徵收稅額表令和 8 年分對照；住民稅計算方法整理，2026-11-17 核對。
 - 給料日的晚上，獨居的人在便利商店和超市之間選哪邊：給料日慣例整理（TRANS.Biz）；ビズヒッツ 2022 年給料日前手頭緊意識調查（500 人）；日本超市折扣標籤型態整理，2026-11-17 核對。
+
+## 2026-11-17 上站（daily6 新刊 6 篇）
+
+- 沒有會員卡，也能在家附近買到那一小包 Costco 餐包：Diamond Online｜為什麼 Costco 要給付高額年費的會員 2% 回饋（https://diamond.jp/articles/-/402031）；Costco Japan 官方網站｜倉庫店查詢（入間店頁面）（https://www.costco.co.jp/store-finder/Iruma）；くふうカンパニー調查（Mapion 新聞稿轉載）（https://www.mapion.co.jp/news/release/000000501.000046400-all/）；くふう トクバイ｜Costco 再販店專題頁（https://tokubai.co.jp/event/costco_resale）；Aumo｜Costco 再販店是什麼（https://aumo.jp/articles/4316460）；StartHome｜再販店機制解說（https://home.kingsoft.jp/news/gourmet/tokubai/8375.html）；Japan Wanderer｜東京都再販店一覽（https://japan-wanderer.com/tokyo-resale-store/），2026-11-17 核對。
+- 一個人在東京吃晚餐，店家早就把位子留好了：一蘭官方網站（https://ichiran.com/）；ChainStoreJapan｜一蘭用餐指南（對照官方資訊整理）（https://chainstorejapan.com/ichiran-guide）；燒肉 LIKE 官方網站（https://yakiniku-like.com）；Mapion 新聞｜燒肉 LIKE 一人燒肉吃到飽企劃（品牌介紹引公司資料）（https://www.mapion.co.jp/news/column/nico19194318-all/）；StartHome｜燒肉 LIKE 一人鍋報導（引品牌新聞稿）（https://home.kingsoft.jp/news/gourmet/tokubai/6235.html?from=recent_v2_gourmet），2026-11-17 核對。
+- 下班繞去惠比壽，看一盞白天就亮著的水晶燈：恵比寿ガーデンプレイス官方特設頁｜Baccarat ETERNAL LIGHTS（https://event.gardenplace.jp/special/2026baccarat/）；恵比寿ガーデンプレイス官方特設頁｜イルミネーション＆クリスマスマルシェ（https://event.gardenplace.jp/special/2026christmas/），2026-11-17 核對。
+- 自行車藍單上路，騎車滑手機那一下要 12000 日圓：東京都都民安全綜合對策本部｜交通反則通告制度（青切符制度）が導入されました（https://www.tomin-anzen.metro.tokyo.lg.jp/kotsu/topics-k/blue_ticket_system）；警察廳｜自転車ルールブック（東京都頁面引用連結）（https://www.npa.go.jp/bureau/traffic/bicycle/info.html），2026-11-17 核對。
+- 舊健保卡還躺在皮夾裡，去醫院前要換帶的那張已經變了：厚生勞動省｜マイナンバーカードの健康保険証利用（マイナ保険証）について（https://www.mhlw.go.jp/stf/newpage_08277.html）；厚生勞動省｜資格確認書について（マイナ保険証を使わない場合の受診方法）（https://www.mhlw.go.jp/stf/newpage_45470.html），2026-11-17 核對。
+- Japan Cup 那天去府中，票要在家裡就買好：JRA 公式｜2026 年重賞與 G1 日程（Beginners Book 2026）（https://www.jra.go.jp/kouza/beginner/seminar/pdf/beginnersbook2026.pdf）；JRA 公式資訊轉載｜ジャパンカップ當日東京競馬場利用方式（2026 年 11 月 13 日 JRA 發表）（https://umaimeshi.com/articles/japan-cup-spectating-guide/）；JRA 指定席與入場券網路預約日程彙整（https://chiba-style.com/event/20345/），2026-11-17 核對。
