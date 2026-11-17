@@ -47,3 +47,15 @@
 - 故鄉納稅拖到年底才弄，12 月 31 日沒付清就變明年的額度：總務省｜ふるさと納稅・稅金的控除說明（https://www.soumu.go.jp/main_sosiki/jichi_zeisei/czaisei/czaisei_seido/furusato/mechanism/deduction.html）；總務省｜ふるさと納稅常見問題（https://www.soumu.go.jp/main_sosiki/jichi_zeisei/czaisei/czaisei_seido/furusato/faq/）；總務省｜ふるさと納稅的流程（https://www.soumu.go.jp/main_sosiki/jichi_zeisei/czaisei/czaisei_seido/furusato/mechanism/procedure.html）；こよみ市場 2026 年版年末整理（https://koyomi-ichiba.com/furusato-nozei-nennai/）；そろばんノート 2025 年 10 月新制整理（https://sorobannote.com/furusato/2025-10），2026-11-17 核對。
 - 舊家具想趕在年內丟掉，粗大垃圾 12 月就要約了：新宿區｜令和 8 年度年末年始的資源・垃圾收集公告（https://www.city.shinjuku.lg.jp/content/000273893.pdf）；世田谷區粗大垃圾整理・片付けレスキュー（https://katazuke-rescue.com/area/setagaya-ku/sodaigomi/）；世田谷區垃圾分類整理・全国ごみ捨て解決事典（https://gomi-sutekata.jp/tokyo/setagaya/）；年末年始粗大垃圾 50 市整理・machi-note（https://machi-note.pompopo.com/nenmatsu），2026-11-17 核對。
 - 目黑川的冬之櫻 12 月 4 日點燈，兩岸 2.2 公里都是粉紅色的：目黒川みんなのイルミネーション官方網站（https://www.minna-no-illumi.com/）；目黒川みんなのイルミネーション2026 發表全文・SDGs fan（https://sdgs.fan:443/sdgs/article/detail/20261106212043.html），2026-11-17 核對。
+
+## 2026-11-17 上站（batch3 新刊 9 篇）
+
+- 東京 9 平方公尺的房間，住進去才知道什麼叫剛剛好：アットホーム募集家賃動向 2026 年 9 月整理（https://satoyuka.net/rent-trend-202609/）；エイブル物件頁（https://www.able.co.jp/tokyo/ensen/101001052/list/gomanen/）；壁芯與內法解說（https://japanpropertyresearch.com/en/guides/how-to-check-floor-area-on-a-property-in-japan），2026-11-17 核對。
+- 公司寄來的那包年末調整表格，有幾格填錯要自己跑稅務署：國稅廳令和 7 年分年末調整のしかた（https://www.nta.go.jp/publication/pamph/gensen/nencho2025/01.htm）；國稅廳タックスアンサー No.1900、No.1906，2026-11-17 核對。
+- 通勤電車上沒人講話，規矩都寫在大家的動作裡：日本民營鐵道協會 2025 年度車站・電車內禮儀問卷（共同通信、日テレNEWS 公布值）；JR 東日本常見問答車內手機禮儀，2026-11-17 核對。
+- 日本小學的營養午餐從飯糰開始，現在連費用都變了：文部科學省學制百年史、令和 3 年度學校給食實施狀況等調查、令和 5 年度實態調查、學校給食費的根本性負擔輕減頁、學校給食食物過敏對應指引，2026-11-17 核對。
+- 2027 福袋已經開跑，星巴克的抽選 11 月 15 日就截止了：星巴克福袋 2027 官方要項、高島屋／大丸松坂屋／三越伊勢丹／AEON Shop 各官方特設頁整理、無印良品福缶官方現況，2026-11-17 核對。
+- 在日本想吃台灣早餐，假日要搭電車去找那一碗鹹豆漿：東京豆漿生活官方網站與官方 Instagram；wanna manna 官方店鋪頁（https://wanna-manna.com/shop/）；Grace 株式會社 PR Times 新聞稿；NEWSjp 鹹豆漿食譜，2026-11-17 核對。
+- 在日本遊戲公司上班的一天，九點五十分到辦公室，七點零七分離開：Paolo fromTOKYO 跟拍影片與內容整理；CESA 遊戲產業報告 2025；CESA 遊戲開發者的就業與職涯形成 2025，2026-11-17 核對。
+- 月給 30 萬日圓，薪資單上被扣掉的 6 萬多去了哪裡：協会けんぽ令和 8 年度東京都料率整理；厚生年金料率 18.3%（日本年金機構資料整理）；厚生勞動省令和 8 年度雇用保險料率整理；國稅廳源泉徵收稅額表令和 8 年分對照；住民稅計算方法整理，2026-11-17 核對。
+- 給料日的晚上，獨居的人在便利商店和超市之間選哪邊：給料日慣例整理（TRANS.Biz）；ビズヒッツ 2022 年給料日前手頭緊意識調查（500 人）；日本超市折扣標籤型態整理，2026-11-17 核對。
