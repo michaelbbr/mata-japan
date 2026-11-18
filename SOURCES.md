@@ -24,7 +24,7 @@
 
 - 第一次跑皇居先記住，這條 5 公里路線要逆時針：環境省皇居外苑管理事務所｜競技会・ランニングイベントの地域ルールについて（https://www.env.go.jp/garden/content/000039142.pdf）；皇居周邊步道利用禮儀（千代田區等）（https://www.env.go.jp/garden/content/000039142.pdf），2026-11-15 核對。
 - 一個人去唱カラオケ，在日本真的不用不好意思：Japan Karaoke Guide（https://wherebest.com/en/japan-karaoke-guide），2026-11-15 核對。
-- 搬家後 14 天內一定要做的事：在留卡地址變更，跑錯地方就白跑：出入國在留管理廳 Q&A｜住居地申報（https://www.moj.go.jp/isa/publications/faq/newimmiact_4_q-and-a_page3.html?lang=zh-TW），2026-11-15 核對。
+- 搬家後 14 天內要改在留卡地址，別跑去入管白跑一趟：出入國在留管理廳 Q&A｜住居地申報（https://www.moj.go.jp/isa/publications/faq/newimmiact_4_q-and-a_page3.html?lang=zh-TW），2026-11-15 核對。
 - 外國人租屋老是被打槍？先搞懂「保證公司」這關在擋什麼：GTN 官方網站（https://www.gtn.co.jp/）；GTN 保證方案資料（信州大學公開版）（https://www.shinshu-u.ac.jp/institution/gec/news/assets/GTNprivateguarantorcompany2021.pdf），2026-11-15 核對。
 - 業務スーパー一般人也能買，在日本生活值得逛嗎？：業務スーパー官方網站（https://www.gyomusuper.jp/）；神戸物産官方網站（https://www.kobebussan.co.jp/），2026-11-15 核對。
 - 想福島的時候，我會去日本橋的 MIDETTE 逛一圈：福島縣官方網站｜日本橋ふくしま館 MIDETTE（https://www.pref.fukushima.lg.jp/sec/32031c/midette.html）；日本橋ふくしま館 MIDETTE 官方網站（http://midette.com/），2026-11-15 核對。
