@@ -22,7 +22,7 @@
 
 ## 在住者情報（2026-11-16 上站）
 
-- 皇居外苑跑一圈：逆時針不是習慣，是住在這裡的人的默契：環境省皇居外苑管理事務所｜競技会・ランニングイベントの地域ルールについて（https://www.env.go.jp/garden/content/000039142.pdf）；皇居周邊步道利用禮儀（千代田區等）（https://www.env.go.jp/garden/content/000039142.pdf），2026-11-15 核對。
+- 第一次跑皇居先記住，這條 5 公里路線要逆時針：環境省皇居外苑管理事務所｜競技会・ランニングイベントの地域ルールについて（https://www.env.go.jp/garden/content/000039142.pdf）；皇居周邊步道利用禮儀（千代田區等）（https://www.env.go.jp/garden/content/000039142.pdf），2026-11-15 核對。
 - 一個人去唱カラオケ，在日本真的不用不好意思：Japan Karaoke Guide（https://wherebest.com/en/japan-karaoke-guide），2026-11-15 核對。
 - 搬家後 14 天內一定要做的事：在留卡地址變更，跑錯地方就白跑：出入國在留管理廳 Q&A｜住居地申報（https://www.moj.go.jp/isa/publications/faq/newimmiact_4_q-and-a_page3.html?lang=zh-TW），2026-11-15 核對。
 - 外國人租屋老是被打槍？先搞懂「保證公司」這關在擋什麼：GTN 官方網站（https://www.gtn.co.jp/）；GTN 保證方案資料（信州大學公開版）（https://www.shinshu-u.ac.jp/institution/gec/news/assets/GTNprivateguarantorcompany2021.pdf），2026-11-15 核對。
