@@ -26,7 +26,7 @@
 - [一個人去唱カラオケ，在日本真的不用不好意思](https://mata-japan.pages.dev/articles/hitokara/)：大叔的週末第二攤：ヒトカラ（一人カラオケ）入門。（腸鍋・週末去哪）
 - [搬家後 14 天內一定要做的事：在留卡地址變更，跑錯地方就白跑](https://mata-japan.pages.dev/articles/moving-14days/)：別跑出入國在留管理局，直接帶在留卡去新家所在地的區役所。（YU・生活情報）
 - [外國人租屋老是被打槍？先搞懂「保證公司」這關在擋什麼](https://mata-japan.pages.dev/articles/rent-guarantor/)：沒有日本保證人，不代表沒房子住。（YU・住）
-- [業務スーパー不是只有業者能進：在日本生活，真的用得到嗎？](https://mata-japan.pages.dev/articles/gyomu-super/)：綠色招牌裡的住者生存術。（AYAKA・吃與買）
+- [業務スーパー一般人也能買，在日本生活值得逛嗎？](https://mata-japan.pages.dev/articles/gyomu-super/)：綠色招牌裡的住者生存術。（AYAKA・吃與買）
 - [想家不用回福島：日本橋的 MIDETTE，是我在東京的充電站](https://mata-japan.pages.dev/articles/midette-fukushima/)：福島出身的編輯，帶你逛福島在東京的家。（AYAKA・週末去哪）
 - [寄包裹回家怎麼選：日本郵便寄台、中、港，運費和天數差在哪](https://mata-japan.pages.dev/articles/shipping-home/)：同一個郵局櫃檯，台灣、中國算「第 1 地帯」，香港算「第 2 地帯」，寄香港天生貴一截。（YU・生活情報）
 - [週末想把節奏調慢一點，去谷中銀座走走](https://mata-japan.pages.dev/articles/yanaka-walk/)：從日暮里出站，給商店街留一點不用趕路的時間。（YU・期間活動）
@@ -34,7 +34,7 @@
 - [東京車站前的燈海，和丸之內仲通差了兩週](https://mata-japan.pages.dev/articles/marunouchi-winter-lights/)：想拍東京車站和燈飾同框，先確認你要去的是哪一條路。（YU・期間活動）
 - [Suica 企鵝要畢業了，時間怎麼看？](https://mata-japan.pages.dev/articles/suica-penguin/)：企鵝的交棒和交通卡怎麼用，是兩件要分開查的事。（YU・生活情報）
 
-- [下班回家看到不在票，包裹只在營業所等你 7 天](https://mata-japan.pages.dev/articles/home-delivery/)：不在票投進信箱那天起算，黑貓只保管 7 天，クール宅急便只有 3 天。（YU・生活情報）
+- [下班回家又看到不在票？日本宅配的保管期限別錯過](https://mata-japan.pages.dev/articles/home-delivery/)：不在票投進信箱那天起算，黑貓只保管 7 天，クール宅急便只有 3 天。（YU・生活情報）
 - [退租被收 15 萬，最莫名其妙的是換鎖那 2 萬](https://mata-japan.pages.dev/articles/checkout-cleaning/)：換鎖、壁紙、清潔費，哪幾筆其實不用你出，照ガイドライン一筆一筆對。（YU・住）
 - [東京巨蛋城的燈飾亮到半夜 12 點，下班再晚都看得到](https://mata-japan.pages.dev/articles/dome-city-lights/)：TOKYO SNOW DOME CITY，2026 年 11 月 19 日到 2027 年 2 月 28 日，燈飾免費參觀。（AYAKA・期間活動）
 - [明治神宮不能跑步，參道再寬也是神社](https://mata-japan.pages.dev/articles/meiji-jingu-run/)：境內請勿跑步，官網參拜禮儀頁寫得很清楚。（腸鍋・週末去哪）
