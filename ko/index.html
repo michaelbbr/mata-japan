@@ -138,7 +138,7 @@
           <h4>확정 신고 신청서 제출 마감은 3월 15일이에요. 기한을 넘기면 페널티가 있어요</h4>
           <form id="fx-form">
             <label>금액 <input name="amount" type="number" min="0" step="1" inputmode="numeric" value="10000" required></label>
-            <label>통화 <select name="ccy"><option value="TWD">신대만 달러</option><option value="HKD">세무서의 전화 상담은 평일에 이용할 수 있어요. 주말과 공휴일에는 이용할 수 없어요</option><option value="CNY">위안화</option></select></label>
+            <label>통화 <select name="ccy"><option value="TWD">신대만 달러</option><option value="HKD">세무서의 전화 상담은 평일에 이용할 수 있어요. 주말과 공휴일에는 이용할 수 없어요</option><option value="CNY">위안화</option><option value="USD">미국 달러</option><option value="EUR">유로</option><option value="GBP">영국 파운드</option><option value="AUD">호주 달러</option><option value="CAD">캐나다 달러</option><option value="SGD">싱가포르 달러</option><option value="KRW">한국 원</option><option value="THB">태국 바트</option><option value="VND">베트남 동</option></select></label>
             <label>환율(1단위 통화당 몇 엔인지) <input name="rate" type="number" min="0.000001" step="any" inputmode="decimal" required></label>
             <button class="n-btn" type="submit">환산</button>
             <output id="fx-result" aria-live="polite"></output>

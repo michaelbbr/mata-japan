@@ -137,7 +137,7 @@
           <h4>生活ツール・円換算</h4>
           <form id="fx-form">
             <label>金額 <input name="amount" type="number" min="0" step="1" inputmode="numeric" value="10000" required></label>
-            <label>通貨 <select name="ccy"><option value="TWD">台湾ドル</option><option value="HKD">香港ドル</option><option value="CNY">人民元</option></select></label>
+            <label>通貨 <select name="ccy"><option value="TWD">台湾ドル</option><option value="HKD">香港ドル</option><option value="CNY">人民元</option><option value="USD">米ドル</option><option value="EUR">ユーロ</option><option value="GBP">英ポンド</option><option value="AUD">豪ドル</option><option value="CAD">カナダドル</option><option value="SGD">シンガポールドル</option><option value="KRW">韓国ウォン</option><option value="THB">タイバーツ</option><option value="VND">ベトナムドン</option></select></label>
             <label>レート（1元＝何円） <input name="rate" type="number" min="0.000001" step="any" inputmode="decimal" required></label>
             <button class="n-btn" type="submit">換算する</button>
             <output id="fx-result" aria-live="polite"></output>
