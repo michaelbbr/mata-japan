@@ -10,11 +10,8 @@
     { code: 'tw', prefix: '', label: '繁體中文' },
     { code: 'cn', prefix: '/cn', label: '简体中文' },
     { code: 'jp', prefix: '/jp', label: '日本語' },
-    { code: 'en', prefix: '/en', label: 'English' },
-    { code: 'vi', prefix: '/vi', label: 'Tiếng Việt' },
-    { code: 'th', prefix: '/th', label: 'ไทย' },
-    { code: 'ko', prefix: '/ko', label: '한국어' },
-    { code: 'pt', prefix: '/pt-br', label: 'Português (Brasil)' }
+    { code: 'en', prefix: '/en', label: 'English' }
+    /* 2026-11-19: vi/th/ko/pt-br removed (Yu decision, zero traffic). */
   ];
   var path = location.pathname;
   var cur = 'tw', base = path;
@@ -46,10 +43,6 @@
         else if (L === 'zh') target = 'tw';
         else if (L.indexOf('ja') === 0) target = 'jp';
         else if (L.indexOf('en') === 0) target = 'en';
-        else if (L.indexOf('vi') === 0) target = 'vi';
-        else if (L.indexOf('th') === 0) target = 'th';
-        else if (L.indexOf('ko') === 0) target = 'ko';
-        else if (L.indexOf('pt') === 0) target = 'pt';
       }
     }
     if (target && target !== 'tw') {
