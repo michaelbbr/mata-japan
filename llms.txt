@@ -45,7 +45,7 @@
 - [超市半額貼紙怎麼讀，五百圓引最容易看錯](https://mata-japan.pages.dev/articles/mikiri/)：半額、三割引、五百圓引，看錯一個差很多。（AYAKA・吃與買）
 - [故鄉納稅拖到年底才弄，12 月 31 日沒付清就變明年的額度](https://mata-japan.pages.dev/articles/furusato-nozei/)：2026 年的額度只認 12 月 31 日前付清的捐款，ワンストップ特例申請書隔年 1 月 10 日必著。（YU・生活情報）
 - [舊家具想趕在年內丟掉，粗大垃圾 12 月就要約了](https://mata-japan.pages.dev/articles/sodai-gomi/)：受付中心 12 月 29 日到 1 月 3 日休息，年內收件的名額 12 月就很滿。（YU・住）
-- [2026 日本冬季活動總整理：聖誕市集、燈飾和期間限定，一頁先看日期](https://mata-japan.pages.dev/articles/winter-events-2026/)：首都圈冬季限定活動彙整，聖誕市集、燈飾、福袋，照結束日期排序。（AYAKA・期間活動）
+- [2026 東京・首都圈冬季活動總整理：聖誕市集、燈飾和期間限定，一頁先看日期](https://mata-japan.pages.dev/articles/winter-events-2026/)：首都圈冬季限定活動彙整，聖誕市集、燈飾、福袋，照結束日期排序。（AYAKA・期間活動）
 - [目黑川的冬之櫻 12 月 4 日點燈，兩岸 2.2 公里都是粉紅色的](https://mata-japan.pages.dev/articles/megurogawa-lights/)：目黒川みんなのイルミネーション2026，2026 年 12 月 4 日到 2027 年 1 月 31 日，約 41 萬球，免費。（AYAKA・期間活動）
 
 - [東京 9 平方公尺的房間，住進去才知道什麼叫剛剛好](https://mata-japan.pages.dev/articles/tiny-apartment/)：廣告面積是壁芯，實際可用看內法，9 平方公尺級老物件租金可以壓到 4 萬日圓上下。（YU・住）
@@ -65,11 +65,10 @@
 - [舊健保卡還躺在皮夾裡，去醫院前要換帶的那張已經變了](https://mata-japan.pages.dev/articles/myna-hokensho/)：舊健康保險證的效期在 2025 年 12 月 1 日結束，現在看病帶マイナ保険証或資格確認書，沒辦的人資格確認書會自己寄到家。（YU・生活情報）
 - [Japan Cup 那天去府中，票要在家裡就買好](https://mata-japan.pages.dev/articles/japan-cup-keiba/)：2026 年 11 月 29 日東京競馬場，芝 2400 公尺，當天沒有現場賣票，入場券 1000 日圓只走網路抽選。（腸鍋・週末去哪）
 
-- [只看照片就簽約，我在 share house 的地板上睡了一個禮拜](https://mata-japan.pages.dev/articles/share-house-diary/)：房間放不下一張床，熱水器也不會開。（YU・日本生活）
 
 - [銀行開戶和手機門號互相等，落地第一週的順序怎麼排](https://mata-japan.pages.dev/articles/bank-account-phone-order/)：在留卡背面還沒有地址，銀行和電信兩邊都辦不下去，順序排對，第一週就能把帳戶和門號安頓好。（YU・生活情報）
 - [台灣駕照換日本駕照免考試，中國駕照要考的 50 題變難了](https://mata-japan.pages.dev/articles/gaimen-kirikae-2026/)：2025 年 10 月起知識確認改成 50 題要對 45 題，通過率掉到 42.8%，住東京的人記得預約府中或鮫洲。（YU・生活情報）
-- [副業所得超過 20 萬日圓才要確定申告，剩下的一半很多人沒記住](https://mata-japan.pages.dev/articles/side-income-tax/)：20 萬以下免辦的是所得稅那一邊，住民稅要另外向居住地的市區役所申告，兩份申告走不同的門。（YU・工作）
+- [副業所得 20 萬日圓那條線只管所得稅，住民稅是另一張表](https://mata-japan.pages.dev/articles/side-income-tax/)：20 萬以下免辦的是所得稅那一邊，住民稅要另外向居住地的市區役所申告，兩份申告走不同的門。（YU・工作）
 - [今年的東京聖誕市集不在神宮外苑，換到新豐洲和芝公園了](https://mata-japan.pages.dev/articles/tokyo-christmas-market-2026/)：新豐洲 2026 年 11 月 20 日到 12 月 25 日，芝公園 12 月 4 日到 12 月 25 日，大人平日 1,000 日圓起，實際票價以官方公告為準。（AYAKA・期間活動）
 - [高尾山的紅葉慢了一點，週末早一點出門就好](https://mata-japan.pages.dev/articles/takao-momiji-2026/)：高尾山もみじまつり 2026 年 10 月 24 日到 12 月 13 日，纜車沿線點燈到 12 月 6 日為止的週五與週末假日，見頃日期是預測，出發前記得看即時情報。（AYAKA・週末去哪）
 - [2027 年おせち的截止日一家一個樣，11 月底就有兩道門檻](https://mata-japan.pages.dev/articles/osechi-2027-deadlines/)：セブン-イレブン的早割到 11 月 30 日，高島屋用超商付款的人 11 月 28 日就截止，百貨三家的線上截止落在 12 月 21 日到 25 日。（AYAKA・吃與買）
