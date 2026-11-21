@@ -96,16 +96,16 @@ body.home .wxband { margin-top: 14px; }
   .n-footerbrand { font-size: 38px; }
   .n-adband { flex-wrap: wrap; }
   .n-links ul, .n-faq-grid { grid-template-columns: 1fr; }
-  /* Mobile masthead: brand gets its own row, tagline drops under the title,
-     language pill wraps to a second row instead of clipping (2026-11-21). */
-  .n-mast { flex-wrap: wrap; row-gap: 8px; }
-  .n-brand { flex: 1 1 auto; flex-wrap: wrap; min-width: 0; }
+  /* Mobile masthead: logo+title and the language selector share row 1,
+     tagline drops under the title (2026-11-21, second pass per Yu). */
+  .n-mast { flex-wrap: wrap; row-gap: 6px; }
+  .n-brand { flex: 0 1 auto; flex-wrap: wrap; min-width: 0; max-width: calc(100% - 124px); }
   .n-brand small { flex: 1 1 calc(100% - 64px); margin-left: 64px; }
   .n-sp { display: none; }
-  .n-lang { flex-shrink: 0; margin-left: auto; font-size: 12.5px; }
+  .n-lang { flex-shrink: 0; margin-left: auto; align-self: flex-start; font-size: 12.5px; }
   .n-lang span, .n-lang a { padding: 5px 10px; white-space: nowrap; }
   .n-threads { flex-shrink: 0; }
-  .n-nav { flex-wrap: nowrap; scrollbar-width: none; }
+  .n-nav { flex-wrap: nowrap; scrollbar-width: none; -webkit-mask-image: linear-gradient(to right, #000 93%, transparent); mask-image: linear-gradient(to right, #000 93%, transparent); }
   .n-nav::-webkit-scrollbar { display: none; }
   /* Category icons: fixed 4-col grid so rows stay aligned in every language. */
   .n-cats { display: grid; grid-template-columns: repeat(4, 1fr); gap: 14px 6px; justify-content: stretch; }
