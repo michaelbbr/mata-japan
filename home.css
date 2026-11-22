@@ -6,6 +6,8 @@ body.home { background: #fff; }
 .n-brand { display: flex; align-items: center; gap: 12px; font-size: 27px; font-weight: 800; color: #1c1c1e; text-decoration: none; letter-spacing: .01em; }
 .n-brand img { width: 52px; height: 52px; border-radius: 50%; object-fit: cover; }
 .n-brand small { display: block; font-size: 12.5px; font-weight: 500; color: #6d6d74; margin-top: 1px; }
+.n-btxt { display: flex; flex-direction: column; min-width: 0; }
+.n-bname { line-height: 1.15; }
 .n-sp { flex: 1; }
 .n-lang { display: flex; border: 1px solid #d4d9e8; border-radius: 999px; overflow: hidden; font-size: 13.5px; }
 .n-lang span, .n-lang a { padding: 5px 13px; color: #55555c; text-decoration: none; }
@@ -96,14 +98,19 @@ body.home .wxband { margin-top: 14px; }
   .n-footerbrand { font-size: 38px; }
   .n-adband { flex-wrap: wrap; }
   .n-links ul, .n-faq-grid { grid-template-columns: 1fr; }
-  /* Mobile masthead: logo+title and the language selector share row 1,
-     tagline drops under the title (2026-11-21, second pass per Yu). */
-  .n-mast { flex-wrap: wrap; row-gap: 6px; }
-  .n-brand { flex: 0 1 auto; flex-wrap: wrap; min-width: 0; max-width: calc(100% - 124px); }
-  .n-brand small { flex: 1 1 calc(100% - 64px); margin-left: 64px; }
+  /* Mobile masthead (2026-11-21, third pass): brand block and language
+     selector share one row, no wrapping; title/tagline stack inside
+     .n-btxt; the JS language <select> is width-capped so it can never
+     push the brand off the row. */
+  .n-mast { flex-wrap: nowrap; gap: 10px; }
+  .n-brand { flex: 1 1 auto; min-width: 0; gap: 10px; font-size: 21px; }
+  .n-brand img { width: 44px; height: 44px; flex-shrink: 0; }
+  .n-bname { white-space: nowrap; }
+  .n-brand small { font-size: 11px; line-height: 1.35; margin-top: 2px; }
   .n-sp { display: none; }
-  .n-lang { flex-shrink: 0; margin-left: auto; align-self: flex-start; font-size: 12.5px; }
+  .n-lang { flex: 0 0 auto; margin-left: 0; align-self: center; font-size: 12.5px; }
   .n-lang span, .n-lang a { padding: 5px 10px; white-space: nowrap; }
+  .n-mast .n-lang .mj-langsel { max-width: 106px; padding: 4px 6px; font-size: 12.5px; }
   .n-threads { flex-shrink: 0; }
   .n-nav { flex-wrap: nowrap; scrollbar-width: none; -webkit-mask-image: linear-gradient(to right, #000 93%, transparent); mask-image: linear-gradient(to right, #000 93%, transparent); }
   .n-nav::-webkit-scrollbar { display: none; }
