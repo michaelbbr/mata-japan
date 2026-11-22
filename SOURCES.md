@@ -109,3 +109,15 @@
 - 在留卡跟 My Number 卡變成一張，2026 年 6 月已經上路：出入國在留管理廳｜特定在留カード交付申請について（https://www.moj.go.jp/isa/tokutei?lang=ha）；出入國在留管理廳｜同頁手數料與 Q&A（https://www.moj.go.jp/isa/tokutei?lang=ha）；本站 AMA 紀錄（2026 年 11 月 19 日）：辦銀行時被要求提供手機號碼，辦手機門號又被要求提供銀行帳號，最後承辦人員溝通很久才辦成，本文照此經歷撰寫窗口互等資料的段落，沒有擴編金額或地點，2026-11-22 核對。
 - 公寓丟垃圾被提醒得超快，原來時間也是規矩的一部分：マンションお役立ち情報｜マンションのごみ出しは前日の夜でもいい？（https://mansion-oyakudati-zyouhou.com/archives/6307）；橫濱市官方公告 PDF（https://www.city.yokohama.lg.jp/kurashi/sumai-kurashi/gomi-recycle/gomi/nenmatsunenshi.files/0062_20261112.pdf）；本站既有文〈粗大垃圾申請〉（slug：sodai-gomi）：粗大垃圾多數自治體採事前申請制，要買處理券貼上，收集日早上搬到指定地點，本文只做內部參照，沒有重抄流程全文；本站 AMA 紀錄（2026 年 11 月 21 日）：把隔天要丟的大型垃圾提前放在外面，馬上被管理組合提醒，很快也很嚴格，環境就是這樣保持清潔的，照 Yu 本人口述撰寫；本站 AMA 紀錄（2026 年 11 月 18 日）：金屬混進一般垃圾，被整理垃圾的大叔當場指出不行，很羞恥，之後再也不犯，照 Yu 本人口述撰寫，2026-11-22 核對。
 - 跑了兩公里買齊三家美式熱狗，吃完卻忘了哪家不一樣：The Standard Japan｜Konbini Prices in Japan: 20 Items at 3 Chains (Oct 2026)（https://thestandardjapan.com/food/konbini-prices-japan）；本站 AMA 紀錄（2026 年 11 月 21 日）：比了 7-Eleven、全家、LAWSON 三家的美式熱狗，附近沒有 LAWSON，走了兩公里去買，三家的差別忘了，說下次再去買。本文的個人細節只用這一則，沒有補排名、沒有補哪一家比較好吃的結論，2026-11-22 核對。
+
+## 2026-11-23 上站（新刊 3 篇）
+
+- 月租 8 萬的房子，簽約那天要準備的錢接近 40 萬：國土交通省，不動產交易相關通知（仲介手数料上限）（https://www.mlit.go.jp/totikensangyo/const/1_6_bf_000013.html）；UR 賃貸住宅官方頁，UR 的好處與特色（https://www.ur-net.go.jp/chintai/whats/merit/）；本站 AMA 紀錄（2026 年 11 月 16 日）：只看網路照片就簽 share house，房間昏暗放不下單人床，睡地板一週，冬天因不會開熱水器洗了冷水澡，照 Yu 本人口述撰寫；試算說明：本文金額為依上述常見比例組成的試算例，不是特定物件的報價，實際費用以各物件估價單為準，2026-11-23 核對。
+- 在東京養狗，出門散步前有三張紙要辦：東京都保健醫療局，犬の登録制度について（https://www.hokeniryo.metro.tokyo.lg.jp/kankyo/aigo/dog/dog02）；JR 東日本，手回り品官方頁（https://www.jreast.co.jp/zh-CHS/kippu/20.html）；本站家庭素材：編輯家裡養的是貓（Blue），貓沒有登録與狂犬病注射的法定行程，本文開頭的對照由此而來，沒有虛構養狗經歷，2026-11-23 核對。
+- よみうりランド的燈飾開到明年 4 月，聖誕節過完再去也來得及：よみうりランド ジュエルミネーション官方頁（https://www.yomiuriland.com/jewellumination/）；Walkerplus 活動報導（https://illumi.walkerplus.com/topics/article/1453478/）；噴水秀 15 公尺、226 支噴水口與 Grand Sanctuary 可入內構造，照主辦單位 2026 年發布資料與活動報導核對（2026 年 11 月查證），2026-11-23 核對。
+
+## 2026-11-23 上站（新刊 3 篇）
+
+- 月租 8 萬的房子，簽約前要準備的錢超過 40 萬：國土交通省，不動產交易相關通知（仲介手数料上限）（https://www.mlit.go.jp/totikensangyo/const/1_6_bf_000013.html）；UR 賃貸住宅官方頁，UR 的好處與特色（https://www.ur-net.go.jp/chintai/whats/merit/）；本站 AMA 紀錄（2026 年 11 月 16 日）：只看網路照片就簽 share house，房間昏暗放不下單人床，睡地板一週，冬天因不會開熱水器洗了冷水澡，照 Yu 本人口述撰寫；試算說明：本文金額為依上述常見比例組成的試算例，不是特定物件的報價，實際費用以各物件估價單為準，2026-11-23 核對。
+- 在東京養狗，出門散步前有三件事要辦：東京都保健醫療局，犬の登録制度について（https://www.hokeniryo.metro.tokyo.lg.jp/kankyo/aigo/dog/dog02）；神戸市，狂犬病予防注射の制度が変わります（2027年3月2日から）（https://www.city.kobe.lg.jp/a84140/kyokenbyo20270302.html）；JR 東日本，手回り品官方頁（https://www.jreast.co.jp/zh-CHS/kippu/20.html）；本站家庭素材：編輯家裡養的是貓（Blue），貓沒有登録與狂犬病注射的法定行程，本文開頭的對照由此而來，沒有虛構養狗經歷，2026-11-23 核對。
+- よみうりランド的燈飾開到明年 4 月，聖誕節過完再去也來得及：よみうりランド ジュエルミネーション官方頁（https://www.yomiuriland.com/jewellumination/）；Walkerplus 活動報導（https://illumi.walkerplus.com/topics/article/1453478/）；噴水秀高 15 公尺的環形水幕、226 支噴水口與 Grand Sanctuary 可入內構造，照主辦單位 2026 年發布資料與活動報導核對（2026 年 11 月查證），2026-11-23 核對。
